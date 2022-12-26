@@ -1,0 +1,1 @@
+# design-box-for-pcb-in-solidworks
